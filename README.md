@@ -1,6 +1,6 @@
 # Desafio da DIO - Especialista em Blockchain
 
-Gerador de carteiras de Bitcoin (Faucet - sem valor); 
+Construir um Gerador de carteiras de Bitcoin (Faucet - sem valor); 
 
 par pvt-pub keys; 
 
