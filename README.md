@@ -1,6 +1,7 @@
 # Desafio da DIO - Especialista em Blockchain
 
-Este desafio consiste em construir um gerador de carteiras de Bitcoin (Faucet - sem valor) - par pvt-pub keys; 
+Este desafio consiste em construir um gerador de carteiras de Bitcoin (Faucet - sem valor) 
+par pvt-pub keys; 
 Importar para um software gerenciador de carteiras; 
 Realizar transações de envio e recebimento de bitcoin.
 
