@@ -1,11 +1,14 @@
 # Desafio da DIO - Especialista em Blockchain
 
 Gerador de carteiras de Bitcoin (Faucet - sem valor); 
+
 par pvt-pub keys; 
+
 Importar para um software gerenciador de carteiras; 
+
 Realizar transações de envio e recebimento de bitcoin.
 
-Tecnologia utilizadas
+Tecnologia utilizadas:
 JavaScript / NodeJS (Gerador); 
 Electrum bitcoin wallet; 
 Bitcoin faucet generator.
